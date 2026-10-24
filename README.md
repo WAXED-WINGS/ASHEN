@@ -95,6 +95,6 @@ No elaborate realism. No ordinary fantasy world.
 
 Just text, shadows, and the things waiting in the ashes.
 
-### `> ENTER THE ASHES_`
-```
- 
+## how to play on windows 
+[▶ Play ASHEN in Your Browser](https://waxed-wings.itch.io/ashen)
+   
